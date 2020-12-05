@@ -54,6 +54,7 @@ void enterTargetFile()
             errorCode = 0;
             break;
         case 0:
+            return 0;
             break;
         default:
             printf("Неизвестная операция, агент 007\n");
