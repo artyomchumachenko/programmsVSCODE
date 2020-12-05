@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1601990197 source:c:\users\Àðò¸ì\desktop\c\training\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1607111204 source:c:\users\Àðò¸ì\desktop\codeblocks\training\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	"head.h"
+
+1607110837 c:\users\Àðò¸ì\desktop\codeblocks\training\head.h
+
